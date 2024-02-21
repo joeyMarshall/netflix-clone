@@ -1,6 +1,7 @@
 # Application Link
 
 [netflx-cln.web.app/](https://netflx-cln.web.app/)
+Netflix Clone - A progressive web application that mimics the Netflix website. It features React JS framework, Axios, TMDb API, Redux, and Google Firebase.
 
 # Getting Started with Create React App and Redux
 
